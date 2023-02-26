@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <kbd>
-    <img src="https://waifu.now.sh/sfw/kiss" alt="">
+    <img src="https://media.tenor.com/yprFslRjh_0AAAAM/bakemonogatari-araragi.gif" alt="">
   </kbd>
 </div>
