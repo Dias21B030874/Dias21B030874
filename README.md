@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Dias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dias21B030874&show_icons=true&theme=radical)](https://github.com/Dias21B030874/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dias21B030874&langs_count=16&layout=compact&theme=dracula&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dias21B030874&margin-w=38&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div align="center">
+  <kbd>
+    <img src="https://waifu.now.sh/sfw/kiss" alt="">
+  </kbd>
+</div>
