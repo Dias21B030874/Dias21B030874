@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <kbd>
-     <img src="https://tenor.com/ru/search/monogatari-gifs" alt="" height = "500" width = "800">
+     <img src="https://media.tenor.com/5qJnWbdTlA4AAAAC/arazkeir-weliton.gif" alt="" height = "500" width = "800">
     
   </kbd>
 </div>
