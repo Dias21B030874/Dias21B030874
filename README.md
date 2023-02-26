@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <kbd>
-    <img src="https://waifu.now.sh/sfw/kiss" alt="">
+    <img src="[https://waifu.now.sh/sfw/kiss](https://waifu.now.sh/sfw/kiss)" alt="">
   </kbd>
 </div>
