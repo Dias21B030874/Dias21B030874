@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <kbd>
-    <img src="<div class="tenor-gif-embed" data-postid="15256869" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/anime-dance-suruga-kanbaru-bakemonogatari-gif-15256869">Anime Dance GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" alt="" height = "500" width = "800">
+    <div class="tenor-gif-embed" data-postid="15256869" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/anime-dance-suruga-kanbaru-bakemonogatari-gif-15256869">Anime Dance GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+   
   </kbd>
 </div>
