@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Dias's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Dias21B030874&theme=dark&hide_border=false)
 -->
 # 📊 GitHub Stats:
 [![Dias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dias21B030874&show_icons=true&theme=radical)](https://github.com/Dias21B030874/github-readme-stats)
-![Dias's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Dias21B030874&theme=dark&hide_border=false)<br/>
 ![Dias's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dias21B030874&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dias21B030874&langs_count=16&layout=compact&theme=dracula&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <kbd>
-    <img src="[https://waifu.now.sh/sfw/kiss](https://waifu.now.sh/sfw/kiss)" alt="">
+    <img src="https://waifu.now.sh/sfw/kiss" alt="">
   </kbd>
 </div>
